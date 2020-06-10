@@ -11,3 +11,4 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 
 <b>Solution Links:</b> <br>
 - [Module 2 Solution](https://umang4846.github.io/Coursera-WebDev-JHU-Assignments/module2-solution/index.html) <br>
+- [Module 3 Solution](https://umang4846.github.io/Coursera-WebDev-JHU-Assignments/module3-solution/index.html) <br>
